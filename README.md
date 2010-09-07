@@ -8,4 +8,4 @@ Use at your own risk.  The code is short, so skim it before using.
 
 ## Index ##
 
-* [read-it-later-to-instapaper.rb](read-it-later-to-instapaper) - Migrate [Read It Later List](http://readitlaterlist.com) items to [Instapaper](http://instapaper.com).
+* [read-it-later-to-instapaper.rb](http://github.com/n3bulous/useful-scripts/tree/master/read-it-later-to-instapaper/) - Migrate [Read It Later List](http://readitlaterlist.com) items to [Instapaper](http://instapaper.com).

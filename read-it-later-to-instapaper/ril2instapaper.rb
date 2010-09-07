@@ -25,5 +25,5 @@ class RIL2Instapaper
   end
 end
 
-runner = RIL2Instapaper.new 'ril.json', '', ''
+runner = RIL2Instapaper.new 'RIL_JSON_FILE', 'INSTAPAPER_USER', 'INSTAPAPER_PASSWORD'
 runner.run 
